@@ -1,4 +1,0 @@
-include * form '';
-suma(a,b){
-printf(a+b);
-}
